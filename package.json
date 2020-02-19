@@ -1,7 +1,6 @@
 {
   "name": "class-27-starter-code",
   "version": "1.0.0",
-  "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
@@ -12,7 +11,7 @@
     "react-dom": "16.9.0",
     "react-jsonschema-form": "1.8.0",
     "react-router-dom": "5.0.1",
-    "react-scripts": "3.1.1",
+    "react-scripts": "^3.4.0",
     "react-test-renderer": "16.9.0"
   },
   "devDependencies": {},
@@ -21,5 +20,16 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LindsayPeltier-401-advanced-javascript/Apprenti-401-Lab-27.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LindsayPeltier-401-advanced-javascript/Apprenti-401-Lab-27/issues"
+  },
+  "homepage": "https://github.com/LindsayPeltier-401-advanced-javascript/Apprenti-401-Lab-27#readme",
+  "description": ""
 }
