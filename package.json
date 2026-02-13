@@ -6,12 +6,12 @@
   "dependencies": {
     "enzyme": "latest",
     "enzyme-adapter-react-16": "1.14.0",
-    "jest": "25.1.0",
+    "jest": "30.2.0",
     "react": "16.9.0",
     "react-dom": "16.9.0",
     "react-jsonschema-form": "1.8.0",
     "react-router-dom": "5.0.1",
-    "react-scripts": "^3.4.0",
+    "react-scripts": "^5.0.1",
     "react-test-renderer": "16.9.0"
   },
   "devDependencies": {},
